@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "nineone",
+	"version": "${version}",
+	"name": "nineOne",
+	"description": "谁打的暗广",
+	"authors": [
+		"xli9527"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/nineone/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.xli9527.nineone.NineOne"
+		],
+		"fabric-datagen": [
+			"com.xli9527.nineone.NineOneDataGenerator"
+		],
+		"client": [
+			"com.xli9527.nineone.NineOneClient"
+		]
+	},
+	"mixins": [
+		"nineone.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
