@@ -19,7 +19,7 @@
 			"com.xli9527.nineone.NineOne"
 		],
 		"fabric-datagen": [
-			"com.xli9527.nineone.NineOneDataGenerator"
+			"com.xli9527.nineone.datagen.NineOneModDataGenerator"
 		],
 		"client": [
 			"com.xli9527.nineone.NineOneClient"
