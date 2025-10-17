@@ -8,8 +8,8 @@
 		"xli9527"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "*",
+		"sources": "https://github.com/xli9527/nineone-1.21.10"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/nineone/icon.png",
