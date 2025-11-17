@@ -3,5 +3,7 @@
   "item.nineone.men_zi": "Men_Zi",
   "item.nineone.men_zi_piece": "Men_Zi_Piece",
   "item.nineone.nineone_logo": "NineOne_LOGO",
-  "item.nineone.starch": "Starch"
+  "item.nineone.starch": "Starch",
+
+  "itemGroup.nineone.test_group": "test_group"
 }
